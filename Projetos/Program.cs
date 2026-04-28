@@ -29,4 +29,19 @@ namespace anna2A
             double Salario_media =(f1.Salario + f2 salario) / 2.0;
             Console.WriteLine("salario medio="+Salario_media);
 
+            using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace anna2A
+{
+    internal class Funcionario
+    {
+        public string nome;
+        public double Salario;
+    }
+}
+
 
